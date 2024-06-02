@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+div
+{
+    padding: 20px;
+    text-align: center;
+}
+.lol
+{
+    overflow: hidden;
+    background-color: black;
+}
+.lol a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.kek
+{
+    word-wrap: break-word;
+    width: 600px;
+    text-align: center;
+}
+.on
+{
+    overflow: hidden;
+    background-color: black;
+}
+.on a
+{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.pop
+{
+    word-wrap: break-word;
+    width: 200px;
+    text-align: center;
+}
+.pop a
+{
+    text-align: left;
+}
